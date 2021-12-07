@@ -1,0 +1,69 @@
+body {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+input[type="text"] {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: midnightblue;
+}
+input[type="submit"] {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: midnightblue;
+  background-color: rgb(127, 127, 182);
+}
+h1 {
+  padding: 40px 40px 0px 0px;
+}
+h2 {
+  color: dimgrey;
+  font-size: 20px;
+  padding-bottom: 30px;
+  font-weight: lighter;
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  margin: 0px 0px 0px 200px;
+  font-size: 23px;
+  font-weight: lighter;
+  color: dimgray;
+}
+.weather {
+  border: 1px solid;
+  padding: 40px;
+}
+.details {
+  list-style: none;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+.temperature {
+  font-size: 64px;
+  font-weight: 400;
+}
+.float-left {
+  float: left;
+}
+.unit,
+.unit2 {
+  position: relative;
+  top: -35px;
+}
+.clearfix img {
+  margin-top: 15px;
+}
+.details {
+  margin-top: 15px;
+}
+#button1 {
+  display: inline;
+}
+button {
+  border-radius: 10px;
+  border-color: midnightblue;
+  background-color: rgb(127, 127, 182);
+}
